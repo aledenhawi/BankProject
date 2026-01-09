@@ -21,13 +21,21 @@ All data is stored in text files, which act like a simple database.
 
 .
 ├── .gitignore
+
 ├── Clients.txt
+
 ├── Currencies.txt
+
 ├── LoginRegister.txt
+
 ├── MyFirstApp.cpp
+
 ├── TransferLog.txt
+
 ├── Users.txt
+
 ├── *.h ← Header files for screens & logic
+
 └── README.md
 
 
@@ -57,7 +65,7 @@ g++ MyFirstApp.cpp -o BankApp
 4. Run the app:
 ./BankApp
 
-How to Use
+##❓How to Use
 
 Once launched, you’ll see a menu like:
 
@@ -75,7 +83,7 @@ Exit
 
 Use number keys to select the option you want.
 
-📌 Notes
+##📌 Notes
 
 This app stores data in text files (*.txt) — no real database.
 
@@ -83,6 +91,7 @@ Make sure the .txt files are present in the same folder when running.
 
 Meant for learning and practice, not production use.
 
-📍 Author
+##📍 Author
 
+   ```bash
 Aledenhawi – GitHub: https://github.com/aledenhawi
