@@ -1,0 +1,20 @@
+X64/.gitignore
+0
+Global.h
+InterfaceCommunication.h
+MyArrLib.h
+MyFilesLib.hBank Project.cpp
+Bank Project.vcxproj
+Bank Project.vcxproj.filters
+Bank Project.vcxproj.user
+MyGeneralLib.h
+MyInputLib.h
+MyMathLib.h
+MyStringLib.h
+MyVectorLib.h
+MyYearLib.h
+x64
+MyFirstApp.vcxproj
+MyFirstApp.vcxproj.filters
+MyFirstApp.vcxproj.user
+MyFirstApp.cpp
