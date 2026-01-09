@@ -65,7 +65,7 @@ g++ MyFirstApp.cpp -o BankApp
 4. Run the app:
 ./BankApp
 
-##❓How to Use
+## ❓How to Use
 
 Once launched, you’ll see a menu like:
 
@@ -83,7 +83,7 @@ Exit
 
 Use number keys to select the option you want.
 
-##📌 Notes
+## 📌 Notes
 
 This app stores data in text files (*.txt) — no real database.
 
@@ -91,7 +91,9 @@ Make sure the .txt files are present in the same folder when running.
 
 Meant for learning and practice, not production use.
 
-##📍 Author
+## 📍 Author
+
+Aledenhawi 
 
    ```bash
-Aledenhawi – GitHub: https://github.com/aledenhawi
+– GitHub: https://github.com/aledenhawi
